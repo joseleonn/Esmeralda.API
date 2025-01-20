@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\creardatatest\\creardatatesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\creardatatest\\creardatatesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\cleanarchitecture\\controllers\\v1\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\v1\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\creardatatest\\creardatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\creardatatest\\creardatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\showweather\\showweatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\showweather\\showweatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\cleanarchitecture\\controllers\\v1\\datatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\v1\\datatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\showweather\\getweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\showweather\\getweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearDataTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
+              "RelativeToolTip": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:31:28.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowWeatherHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:52:34.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetWeather.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "RelativeToolTip": "Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:50:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:48:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataTestController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:48:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearDataTestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:46:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Response.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\Common\\Response.cs",
+              "RelativeToolTip": "Application\\Common\\Response.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:54:28.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
