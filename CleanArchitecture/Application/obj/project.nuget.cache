@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gXf+xhH6x7pStDskALhcbDqtouu2buH6L7jn0mvXA/Jr680uHpRgWcxBp1GtQ3uavg1Yr9SKYIqJYPY+/Flp4w==",
+  "dgSpecHash": "/ff2vfyVazQTRYWBvJWTPjT6jZHVTOlYNakDR8cj+flOpq+pN8n14tYfdVxmUgD/ppe6S/QHTNNOxl1Go8SoJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Caceres\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Jose Caceres\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

@@ -1,34 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\",
+  "WorkspaceRootPath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\creardatatest\\creardatatesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\creardatatest\\creardatatesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\cleanarchitecture\\controllers\\v1\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\cleanarchitecture\\controllers\\v1\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\v1\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\creardatatest\\creardatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\creardatatest\\creardatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\showweather\\showweatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\showweather\\showweatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\cleanarchitecture\\controllers\\v1\\datatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\cleanarchitecture\\controllers\\v1\\datatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\v1\\datatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\.net 8 cleanarchitecutre\\cleanarchitecture\\application\\usecases\\v1\\showweather\\getweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\application\\usecases\\v1\\showweather\\showweatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\showweather\\showweatherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\application\\usecases\\v1\\showweather\\getweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9FA420A-E2DD-4380-9FC0-1C11DFACB85E}|Application\\Application.csproj|solutionrelative:application\\usecases\\v1\\showweather\\getweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\infrastructure\\persistence\\esmeraldadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\esmeraldadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\infrastructure\\boopstrap\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\boopstrap\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\listener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\integration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\integration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\domain\\entities\\automation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CAE0FC-92D1-450F-B700-DEED187C3120}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\automation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\infrastructure\\transactionalrepository\\inmplementations\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\transactionalrepository\\inmplementations\\dbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\cleanarchitecture\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C08D120-6864-4837-893F-3B34DB4D23EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|c:\\users\\jose caceres\\desktop\\instamation\\esmeralda.api\\cleanarchitecture\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97D0BC7-D2D2-4378-BE46-01801CD50781}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +94,277 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CrearDataTest.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
-              "RelativeToolTip": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:31:28.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowWeatherHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
-              "RelativeToolTip": "Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:52:34.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetWeather.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
-              "RelativeToolTip": "Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:50:05.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
               "RelativeToolTip": "CleanArchitecture\\Controllers\\V1\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAQAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:48:31.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataTestController.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
-              "RelativeToolTip": "CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:48:29.187Z",
+              "WhenOpened": "2025-01-20T23:59:52.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CrearDataTestHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
-              "RelativeToolTip": "Application\\UseCases\\V1\\CrearDataTest\\CrearDataTestHandler.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAADgvwsAAAAwAAAA",
+              "Title": "DataTestController.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\V1\\DataTestController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:46:52.266Z",
+              "WhenOpened": "2025-01-20T23:59:46.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\Common\\Response.cs",
-              "RelativeDocumentMoniker": "Application\\Common\\Response.cs",
-              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\.NET 8 CleanArchitecutre\\CleanArchitecture\\Application\\Common\\Response.cs",
-              "RelativeToolTip": "Application\\Common\\Response.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAG0AAAAhAAAA",
+              "DocumentIndex": 2,
+              "Title": "ShowWeatherHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\V1\\ShowWeather\\ShowWeatherHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBkAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:54:28.375Z",
+              "WhenOpened": "2025-01-20T23:59:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\WeatherForecast.cs",
+              "RelativeToolTip": "Domain\\Entities\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:59:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetWeather.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "RelativeToolTip": "Application\\UseCases\\V1\\ShowWeather\\GetWeather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:56:33.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Trigger.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Trigger.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Trigger.cs",
+              "RelativeToolTip": "Domain\\Entities\\Trigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:46.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Subscription.cs",
+              "RelativeToolTip": "Domain\\Entities\\Subscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:42.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "Domain\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Listener.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Listener.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Listener.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Listener.cs",
+              "RelativeToolTip": "Domain\\Entities\\Listener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Keyword.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Keyword.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Keyword.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Keyword.cs",
+              "RelativeToolTip": "Domain\\Entities\\Keyword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Integration.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Integration.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Integration.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Integration.cs",
+              "RelativeToolTip": "Domain\\Entities\\Integration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Boopstrap\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Boopstrap\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Boopstrap\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\Boopstrap\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:03:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EsmeraldadbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Persistence\\EsmeraldadbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\EsmeraldadbContext.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Persistence\\EsmeraldadbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\EsmeraldadbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:53:22.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dm.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Dm.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Dm.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Dm.cs",
+              "RelativeToolTip": "Domain\\Entities\\Dm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:55:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Automation.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Automation.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Automation.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Entities\\Automation.cs",
+              "RelativeToolTip": "Domain\\Entities\\Automation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:54:37.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAABoAAAAAHA/8p6cswA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T23:45:45.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T23:07:14.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbContextExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\TransactionalRepository\\Inmplementations\\DbContextExtension.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TransactionalRepository\\Inmplementations\\DbContextExtension.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\TransactionalRepository\\Inmplementations\\DbContextExtension.cs",
+              "RelativeToolTip": "Infrastructure\\TransactionalRepository\\Inmplementations\\DbContextExtension.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:04:18.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:04:00.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\.env",
+              "RelativeDocumentMoniker": "CleanArchitecture\\.env",
+              "ToolTip": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\CleanArchitecture\\.env",
+              "RelativeToolTip": "CleanArchitecture\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T23:03:45.418Z",
               "EditorCaption": ""
             }
           ]

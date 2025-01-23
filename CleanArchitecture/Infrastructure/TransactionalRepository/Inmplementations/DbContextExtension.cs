@@ -20,12 +20,12 @@ namespace Infrastructure.TransactionalRepository.Inmplementations
             where TContext : DbContext
         {
             // Obtener connection string
-            //var connectionString = configuration.GetConnectionString(connectionStringName);
-            //ArgumentNullException.ThrowIfNull(connectionString, nameof(connectionStringName));
+            var connectionString = configuration.GetConnectionString(connectionStringName);
+            ArgumentNullException.ThrowIfNull(connectionString, nameof(connectionStringName));
 
             // Registrar DbContext
             services.AddDbContext<TContext>(options =>
-                options.UseInMemoryDatabase("TestDatabase"));
+                options.UseNpgsql(connectionString));
 
             // Registrar las configuraciones necesarias para el repositorio
             services.AddScoped<ITransactionalConfiguration>(provider =>

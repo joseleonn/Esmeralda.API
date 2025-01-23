@@ -13,7 +13,7 @@ namespace Infrastructure.Bootstrap
     {
         public static IServiceCollection AddInfraestructure(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddCustomDbContext<TuDbContext>(configuration);
+            services.AddCustomDbContext<EsmeraldadbContext>(configuration);
             return services;
         }
     }
