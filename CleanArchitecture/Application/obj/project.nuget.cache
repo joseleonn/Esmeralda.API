@@ -1,12 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "/ff2vfyVazQTRYWBvJWTPjT6jZHVTOlYNakDR8cj+flOpq+pN8n14tYfdVxmUgD/ppe6S/QHTNNOxl1Go8SoJw==",
+  "dgSpecHash": "D/5EqOWwDs71U0JK6nJv6ymoVLdqF52WVUNlr6/nnZZlaylN21Y/sZuQ0P+doQ0ZHTmp9BIGlWZmew7JgMZ8jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jose Caceres\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
-    "C:\\Users\\Jose Caceres\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Jose Caceres\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+    "C:\\Users\\MSI\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

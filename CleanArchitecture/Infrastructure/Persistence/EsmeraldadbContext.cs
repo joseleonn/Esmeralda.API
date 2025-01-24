@@ -213,6 +213,8 @@ public partial class EsmeraldadbContext : DbContext
                 .HasColumnName("updatedAt");
             entity.Property(e => e.UserId).HasColumnName("userId");
 
+            entity.Property(e => e.Plan).HasColumnName("plan");
+
             entity.HasOne(d => d.User).WithOne(p => p.Subscription)
                 .HasForeignKey<Subscription>(d => d.UserId)
                 .OnDelete(DeleteBehavior.Cascade)

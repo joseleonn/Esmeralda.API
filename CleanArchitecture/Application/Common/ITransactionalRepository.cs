@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infrastructure.TransactionalRepository.Interfaces
+namespace Application.Common
 {
     public interface ITransactionalRepository
     {
@@ -35,5 +35,11 @@ namespace Infrastructure.TransactionalRepository.Interfaces
         TEntity FindById<TEntity>(dynamic id) where TEntity : class;
         IEnumerable<TEntity> GetAll<TEntity>() where TEntity : class;
         IEnumerable<TEntity> GetByCondition<TEntity>(Expression<Func<TEntity, bool>> expression) where TEntity : class;
+        Task<TEntity?> GetByConditionAsync<TEntity>(
+                Expression<Func<TEntity, bool>> expression,
+                Func<IQueryable<TEntity>, IQueryable<TEntity>>? includeMethod = null,
+                CancellationToken cancellationToken = default
+            ) where TEntity : class;
+            
     }
 }

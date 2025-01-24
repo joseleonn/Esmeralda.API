@@ -12,6 +12,7 @@ public partial class Subscription
     public DateTime CreatedAt { get; set; }
 
     public DateTime UpdatedAt { get; set; }
+    public string Plan { get; set; }
 
     public string? CustomerId { get; set; }
 

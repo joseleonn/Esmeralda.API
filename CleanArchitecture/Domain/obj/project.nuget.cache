@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AOtohgvZzSjLUC0lTX7Yr2RQJsMv2kY8rLWn4815u1AAAE4My8WcPsgsHqt4dHtw9FvHcTbqstanhcabcyW9Mw==",
+  "dgSpecHash": "flsWQxLlzLpKA1BT+zhMK3K7+j8yeGplcg1qllFerw4oNZd+idjZE+GxU+yv6b9PKdwFkCBSdbVhgG9pijIDvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

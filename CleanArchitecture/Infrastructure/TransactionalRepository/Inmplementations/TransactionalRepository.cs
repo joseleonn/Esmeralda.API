@@ -1,4 +1,5 @@
-﻿using Infrastructure.TransactionalRepository.Interfaces;
+﻿using Application.Common;
+using Infrastructure.TransactionalRepository.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
@@ -180,5 +181,26 @@ namespace Infrastructure.TransactionalRepository.Inmplementations
             }
         }
 
+        public async Task<TEntity?> GetByConditionAsync<TEntity>(
+        Expression<Func<TEntity, bool>> expression,
+        Func<IQueryable<TEntity>, IQueryable<TEntity>>? includeMethod = null,
+        CancellationToken cancellationToken = default
+    ) where TEntity : class
+        {
+            try
+            {
+                var query = context.Set<TEntity>().Where(expression);
+
+                if (includeMethod != null)
+                    query = includeMethod(query); // Aplica los includes
+
+                return await query.FirstOrDefaultAsync(cancellationToken);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error al buscar registros");
+                throw;
+            }
+        }
     }
 }

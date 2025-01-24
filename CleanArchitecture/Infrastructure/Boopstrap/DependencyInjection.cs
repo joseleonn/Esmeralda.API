@@ -1,4 +1,5 @@
-﻿using Infrastructure.Persistence;
+﻿using Application.Common;
+using Infrastructure.Persistence;
 using Infrastructure.TransactionalRepository.Inmplementations;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -14,6 +15,7 @@ namespace Infrastructure.Bootstrap
         public static IServiceCollection AddInfraestructure(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddCustomDbContext<EsmeraldadbContext>(configuration);
+            services.AddScoped<ITransactionalRepository, ConcreteTransactionalRepository>();
             return services;
         }
     }

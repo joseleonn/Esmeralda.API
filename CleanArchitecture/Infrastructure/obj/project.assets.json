@@ -2760,6 +2760,7 @@
         "dependencies": {
           "Domain": "1.0.0",
           "MediatR": "12.4.1",
+          "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
         },
         "compile": {
@@ -8435,19 +8436,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jose Caceres\\.nuget\\packages\\": {}
+    "C:\\Users\\MSI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Jose Caceres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jose Caceres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8455,15 +8456,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/architecture-it/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Jose Caceres\\Desktop\\Instamation\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj"
+            "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\MSI\\Desktop\\Esmeralda.API\\CleanArchitecture\\Application\\Application.csproj"
             }
           }
         }
@@ -8472,11 +8472,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8530,7 +8525,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
